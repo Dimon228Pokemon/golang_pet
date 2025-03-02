@@ -1,7 +1,6 @@
 package main
 
-import "fmt"
-
 func main() {
-	fmt.Println("Client")
+	st := storage.
+		fmt.Println("Client")
 }

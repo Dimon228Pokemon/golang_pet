@@ -1,4 +1,4 @@
-module github.com/Dimon228Pokemon/golang_pet.git
+module github.com/Dimon228Pokemon/golang_pet/second_project/under_sec_project
 
 go 1.23.6
 

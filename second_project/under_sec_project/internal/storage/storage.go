@@ -3,7 +3,7 @@ package storage
 import (
 	"fmt"
 
-	"github.com/Dimon228Pokemon/golang_pet.git/internal/file"
+	"github.com/Dimon228Pokemon/golang_pet/internal/file"
 	"github.com/google/uuid"
 )
 

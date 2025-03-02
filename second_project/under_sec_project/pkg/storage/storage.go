@@ -1,6 +1,6 @@
 package storage
 
-import "github.com/Dimon228Pokemon/golang_pet.git/internal/storage"
+import "github.com/Dimon228Pokemon/golang_pet/internal/storage"
 
 //тут чтобы вытягивать приватные приколюхи наружу как я понял
 //тобишь все коды клиентов, чтобы в дальнейшем подтягивать на сервер все проходит через этот файлик pkg

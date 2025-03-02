@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Dimon228Pokemon/golang_pet.git/internal/storage"
+	"github.com/Dimon228Pokemon/golang_pet/internal/storage"
 )
 
 func main() {
