@@ -1,5 +1,8 @@
-module my_client
+module my-client
 
 go 1.23.6
 
-require github.com/Dimon228Pokemon/golang_pet/second_project/under_sec_project v0.0.0-20250302164954-b03e062f4d64 // indirect
+require (
+	github.com/Dimon228Pokemon/golang_pet/second_project/under_sec_project v0.0.0-20250302170906-3819bd0cedc3 // indirect
+	github.com/google/uuid v1.6.0 // indirect
+)
