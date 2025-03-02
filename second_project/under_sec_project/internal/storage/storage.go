@@ -3,7 +3,7 @@ package storage
 import (
 	"fmt"
 
-	"github.com/Dimon228Pokemon/golang_pet/internal/file"
+	"github.com/Dimon228Pokemon/golang_pet/second_project/under_sec_project/internal/file"
 	"github.com/google/uuid"
 )
 
@@ -14,7 +14,7 @@ type Storage struct {
 }
 
 // создали как бы конструктор
-func NewStrorage() *Storage {
+func NewStorage() *Storage {
 	return &Storage{
 		files: make(map[uuid.UUID]*file.File),
 	}

@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Dimon228Pokemon/golang_pet/internal/storage"
+	"github.com/Dimon228Pokemon/golang_pet/second_project/under_sec_project/internal/storage"
 )
 
 func main() {
-	st := storage.NewStrorage()
+	st := storage.NewStorage()
 
 	file, err := st.Upload("test.txt", []byte("hello mohnatka"))
 	if err != nil {
